@@ -1,5 +1,8 @@
 <h1 align="center"> <a href="https://optimus-tech-blue.vercel.app/" target="_blank" rel="noopener noreferrer"> Optimus Tech </a></h1>
 
+<p align="center">Criando uma página completa de 'Vagas' de uma empresa fictícia
+com Giovanna Moeller</p>
+
 <div>
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
